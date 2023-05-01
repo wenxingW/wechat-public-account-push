@@ -36,7 +36,7 @@ const USER_CONFIG = {
           type: '生日', name: '宝讥阳历', year: '2000', date: '04-30',
         },
         {
-          type: '节日', name: '我们的相恋日', year: '2023', date: '04-25',
+          type: '节日', name: '我们的相恋纪念日', year: '2023', date: '04-25',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
